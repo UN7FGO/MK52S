@@ -1,3 +1,3 @@
-Under construction.
+First version.
 
-![Готовые печатные платы](https://github.com/UN7FGO/MK52S/blob/main/mk_52s.jpg).
+![Референсный вариант устройства](https://github.com/UN7FGO/MK52S/pic/mk_52s_01.jpg).
